@@ -1,0 +1,11 @@
+.myrows{
+  border: 3px solid green ;
+  padding: 5px;
+}
+.mycols{
+  border: 3px solid rgb(121, 7, 65);
+}
+.mycontainer{
+  background-color: rgb(18, 221, 221);
+  border: 3px solid rgb(247, 10, 124);
+}
