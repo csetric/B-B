@@ -1,11 +1,7 @@
 
-.mycols{
-  border: 3px solid rgb(121, 7, 65);
-}
-.mycontainer{
-  background-color: silver;
-  border: 1px solid rgb(247, 10, 124);
-}
-body{
+body {
   background-color: #633a34;
+}
+h2 {
+  color: white;
 }
