@@ -1,5 +1,5 @@
 .myrows{
-  border: 3px solid green ;
+  border: 8px solid green ;
   padding: 5px;
 }
 .mycols{
@@ -7,5 +7,5 @@
 }
 .mycontainer{
   background-color: rgb(18, 221, 221);
-  border: 3px solid rgb(247, 10, 124);
+  border: 1px solid rgb(247, 10, 124);
 }
