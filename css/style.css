@@ -1,6 +1,4 @@
-.spacerows{
-  background-color: #633a34;
-  }
+
 .mycols{
   border: 3px solid rgb(121, 7, 65);
 }
@@ -9,5 +7,5 @@
   border: 1px solid rgb(247, 10, 124);
 }
 body{
-  background-color: blue;
+  background-color: #633a34;
 }
