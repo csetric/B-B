@@ -1,7 +1,18 @@
 
+.spacerows{
+  padding: 3px;
+}
+.spacerows-01{
+  padding-left: 3px;
+  padding-top: 10px;
+}
+
 body {
   background-color: #633a34;
 }
-h2 {
+h3 {
   color: white;
+}
+.tagline{
+  font-size: 80%;
 }
